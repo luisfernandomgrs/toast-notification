@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">toast</string>
+    <string name="TitleSwitchPersonal">Notificações Personalizadas</string>
+    <string name="ShowNotification1">Exibir Notificação</string>
+</resources>
